@@ -7,7 +7,7 @@
 ## 🚀 About Me 
 - 💡 Passionate about turning data into insights and building real-world projects  
 - 🎯 Goal: To work on impactful data-driven applications  
-- 📫 How to reach me: [Email](mailto:mizba.fathimaa@gmail.com) | [LinkedIn](https://linkedin.com/in/Mizba-fathima)
+- 📫 How to reach me: [Email](mailto:mizba.fathimaa@gmail.com) | [LinkedIn](https://linkedin.com/in/Mizba.fathima)
 
 ---
 
@@ -48,5 +48,5 @@ Technologies: PHP, MySQL, Bootstrap, PHPMailer
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mizba-fathima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mizba.fathima)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mizba.fathimaa@gmail.com)
