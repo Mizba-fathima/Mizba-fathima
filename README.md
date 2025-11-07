@@ -40,10 +40,10 @@ Technologies: PHP, MySQL, Bootstrap, PHPMailer
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizba-fathima&show_icons=true&theme=radical)
+--## 📈 GitHub Stats
+--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizba-fathima&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizba-fathima&layout=compact&theme=radical)
+--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizba-fathima&layout=compact&theme=radical)
 
 ---
 
