@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mizba-fathima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mizba-fathima&icon=0&color=)](https://visitcount.itsvg.in)
 
 
