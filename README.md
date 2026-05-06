@@ -51,24 +51,18 @@ Motivated MCA student passionate about building scalable web applications and so
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mizba-fathima&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-
-<img src="https://streak-stats.demolab.com/?user=Mizba-fathima&theme=tokyonight&hide_border=true" height="180em" />
-
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mizba-fathima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mizba-fathima&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mizba-fathima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 # 🚀 Featured Projects
 
 🔹 Automated Loan Management System  
-🔹 Python Full Stack Web Applications  
-🔹 Data Analysis & Visualization Projects  
-🔹 Machine Learning Mini Projects  
+🔹 Language Translator-Python  
+🔹 Data Analysis & Visualization Projects    
 
 ---
 
