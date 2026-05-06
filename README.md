@@ -51,12 +51,6 @@ Motivated MCA student passionate about building scalable web applications and so
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mizba-fathima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mizba-fathima&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mizba-fathima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 # 🚀 Featured Projects
 
